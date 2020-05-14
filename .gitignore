@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Big files
+.fits
+.FITS
+.npy
+.npz
